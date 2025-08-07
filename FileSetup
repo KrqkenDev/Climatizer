@@ -1,0 +1,1 @@
+To set up all the files, just drage them all into one project on a Python IDE, such as PyCharm or VsCode. Ensure all the files are Python files, except settings.json, which should be json (don't confuse with settings.py!)

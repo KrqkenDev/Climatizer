@@ -1,0 +1,12 @@
+{
+    "metrics": {
+        "CPU": true,
+        "Memory": true,
+        "Disk": true,
+        "Temp": true
+    },
+    "colors": {
+        "bg": "#000000",
+        "fg": "#ffffff"
+    }
+}
